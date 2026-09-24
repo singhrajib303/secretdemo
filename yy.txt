@@ -1,1 +1,1 @@
-github_pat_11AAAAAAA0j123456789XY_abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+GITHUB_TOKEN = "ghp_MockTokenWith36AlphanumericCharsTest"
